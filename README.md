@@ -1,2 +1,2 @@
 # qrencrypt
-Turns a unique QR code into a Number!
+Encrypt Text and put it in a QR Code. Can only be decrypted by qrencrypt.
